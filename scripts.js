@@ -8,4 +8,4 @@ $(document).ready(function(){
 	});
 });
 
-//Yay :)
+// why don't they have validation for javascript? D: 
